@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'MRT_Poster';
+  src: url('MRT_Poster.woff') format('woff'),
+       url('MRT_Poster.svg#MRT_Poster') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MRT_poster';
+  src: url('MRT_poster.eot');
+  src: url('MRT_poster.woff2') format('woff2'),
+       url('MRT_poster.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'BYekan';
+	src: url('BYekan.eot?#') format('eot'),  /* IE6–8 */ url('BYekan.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('BYekan.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
